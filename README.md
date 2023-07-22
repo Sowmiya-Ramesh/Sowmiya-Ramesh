@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sowmiya</h1>
+<h1 align="center">Hi, I'm Sowmiya :)</h1>
 <h3 align="center">A self-taught developer. I'm enthusiastic about learning new skills, expanding my knowledge, and leveraging my learnings. I enjoy creating user experience design, interfaces and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmiya-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-ramesh" /> </p>
