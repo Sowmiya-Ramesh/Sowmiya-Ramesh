@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sowmiya Ramesh</h1>
+<h1 align="center">Hey 👋, I'm Sowmiya Ramesh</h1>
 <h3 align="center">An result-driven and experienced developer familiar with a wide range of programming tools and languages. Ability to understand the requirements for both the front end and the backend. A collaborative team player with a willingness to learn and grow with the organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmiya-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-ramesh" /> </p>
