@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Book Corner](https://github.com/Sowmiya-Ramesh/Book-Corner-client)
 
-- 🌱 I’m currently learning **RTL with JEST , Web security**
+- 🌱 I’m currently learning **RTL with JEST , Web security , AWS **
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-sowmiyar.netlify.app/](https://personal-portfolio-sowmiyar.netlify.app/)
 
